@@ -7,6 +7,7 @@
   <a href="https://github.com/FredSousaS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredSousaS&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredSousaS&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredSousaS&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 
   
